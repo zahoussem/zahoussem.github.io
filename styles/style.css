@@ -597,15 +597,15 @@ div.wpcf7-response-output { margin: 20px 0 15px; }
 }
 
     
-    .container {
-	display:inline;
-}
-.container > div {
-}
+/*     .container { */
+/* 	display:inline; */
+/* } */
+/* .container > div { */
+/* } */
 
-.one-third{
-    padding-left:0%;
-}
+/* .one-third{ */
+/*     padding-left:0%; */
+/* } */
 
 .mh-container {max-width:95%;}
 	.mh-container-outer { margin: 0 auto; }
